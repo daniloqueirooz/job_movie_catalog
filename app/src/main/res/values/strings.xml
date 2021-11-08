@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">DFlix</string>
+    <string name="mostPopular">Em exibição</string>
+
+    <string name="noContent">No Content</string>
     <string-array name="Marvel" >
 
     </string-array>
